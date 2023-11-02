@@ -1,0 +1,14 @@
+.bordermaking{
+	border: 1px solid black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0px 500px 0px 500px;
+}
+
+.logo{
+	display:flex;
+	margin: auto;
+	align-items: center;
+	justify-content: center;
+}

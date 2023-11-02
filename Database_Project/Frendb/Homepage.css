@@ -1,0 +1,14 @@
+body{
+	background-image: url("BackgroundImage.png");
+	 background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 240px;
+	font-family: "Consolas";
+}

@@ -1,0 +1,25 @@
+
+body{
+    align-items: center;
+    margin: 100px 0px 2px 190px;
+    background-image: url("BackgroundImage.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.center{
+	display: flex;
+	margin-top: 40px;
+}
+
+.card{
+    margin-left: 60px;
+}
+
+body .image{
+	border-radius: 5px;
+  	margin-left: 400px;
+  	margin-right: auto;
+  	margin-top: 0px;
+}
